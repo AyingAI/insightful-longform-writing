@@ -1,5 +1,7 @@
 # Insightful Longform Writing Skill
 
+![长文写作 Skill 封面](assets/cover.png)
+
 一个面向中文长文写作的 Agent Skill，用来帮助 AI 写出“有观点、有洞察、能被读者读完并转述”的文章。
 
 它不只是提示 AI “写得更好”，而是把一套完整的写作方法封装成可执行流程：从选题定位、文章大纲、逐章草稿、反馈修订、全文质检，到最后的插图规划。
